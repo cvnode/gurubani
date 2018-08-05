@@ -36,7 +36,7 @@
                             <a href="#" class="btn btn-link btn-block">Forgot your password?</a>
                         </div> -->
                         <div class="col-md-6">
-                            <button class="btn btn-info btn-block">Log In Chinkush</button>
+                            <button class="btn btn-info btn-block">Log In</button>
                         </div>
                     </div>
                     </form>
